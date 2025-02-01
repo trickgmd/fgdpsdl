@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "trickgmd",
+            "link": "https://www.youtube.com/watch?v=7of89880hwc",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
